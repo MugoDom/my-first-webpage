@@ -1,0 +1,21 @@
+h1 {
+    color: chocolate;
+    text-align: center;
+}
+h2 {
+    color: crimson;
+    font-style: italic;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+ul {
+    line-height: 40px;
+}
+
+img {
+    border-width: 40px;
+}
